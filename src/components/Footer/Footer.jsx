@@ -11,7 +11,7 @@ const Footer = () => {
             <div className='lg:w-[1280px] mx-auto py-[120px] px-6 lg:px-0'>
             <div className='grid grid-cols-1 sm-grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8  text-white pb-16'>
                 <div className='walks-life'>
-                    <h3 className=''>Walks of Life</h3>
+                    <h3 className=''>Eight Developers</h3>
                     <p>There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
                     <div className='flex items-center gap-4'>
                         <div className='facebook'>
@@ -51,7 +51,7 @@ const Footer = () => {
             <hr />
             <div className='lg:flex justify-between items-center copyright'>
                 <p>@2023 CareerHub. All Rights Reserved</p>
-                <p>Powered by Walks of life</p>
+                <p>Powered by Eight Developers</p>
             </div>
         </div>
         </div>
