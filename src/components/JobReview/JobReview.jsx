@@ -12,7 +12,7 @@ const JobReview = ({ feature }) => {
                 <div className='bg-[#F4F4F4] p-2 rounded-md block'>
                     <img className='lg:w-[200px]' src={img} alt="" />
                 </div>
-                <div>
+                <div >
                     <h5 className='job-title'>{jobTitle}</h5>
                     <p className='company-name'>  {name}</p>
                     <div className='flex lg:gap-3 gap-1'>
