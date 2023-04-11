@@ -4,8 +4,8 @@ import './Headers.css'
 
 const Headers = () => {
     return (
-        <div className='background'>
-            <div className="navbar w-10/12 mx-auto">
+        <div className='background '>
+            <div className="navbar w-10/12 mx-auto py-7">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -18,7 +18,7 @@ const Headers = () => {
                         <li><Link to='/blog'>BLog</Link></li>
                         </ul>
                     </div>
-                    <Link to="/" className="btn btn-ghost normal-case text-3xl">Eight Developers</Link>
+                    <Link to="/" className="btn btn-ghost normal-case text-3xl p-0">Eight Developers</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
