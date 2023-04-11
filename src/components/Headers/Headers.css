@@ -17,4 +17,20 @@ a {
         margin-bottom: 10px;
         
     }
+    .title_e{
+
+
+        font-size: 17px;
+
+        color: #6942df;
+      }
+  }
+  .title_e{
+    color: #8786FE;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 22px;
+    color: #6942df;
   }

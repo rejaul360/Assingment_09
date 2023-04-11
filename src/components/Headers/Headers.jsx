@@ -18,7 +18,7 @@ const Headers = () => {
                         <li><Link to='/blog'>BLog</Link></li>
                         </ul>
                     </div>
-                    <Link to="/" className="btn btn-ghost normal-case text-3xl p-0 bg_color ">Eight Developers</Link>
+                    <Link to="/" className="btn btn-ghost normal-case text-3xl p-0 bg_color "> <span className='title_e'>E</span>ight Developers</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
