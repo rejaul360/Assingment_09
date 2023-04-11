@@ -1,0 +1,122 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "jobTitle": "Data Analysis Engineer",
+        "name": "Google",
+        "salary": "80k-120k",
+        "img": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png?fbclid=IwAR0UgNpgPwz2SirK-58amU5JTrvv3QMqGJnzuTo-ofjr0XW7z7pjbJKxzf4",
+        "description": "Data Analyst: As a data analyst at Google, you will use data to help inform business decisions and improve user experiences. You will analyze large data sets, develop data-driven insights, and present your findings to stakeholders",
+        "responsibility": "Perform job-specific tasks: This involves completing the duties associated with the job, which could include anything from designing products to managing budgets to conducting research.",
+        "education": "",
+        "experiences": "2-3 years in this field",
+        "contact": {
+            "phone": "+8801307325024",
+            "email": "hanifulislam160@gmail.com",
+            "address": "Mirpur 10, Dhaka"
+        },
+        "jobType": {
+            "A": "Remote",
+            "B": "Full Time"
+        }
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "jobTitle": "Technical Database Engineer",
+        "name": "Netflix ",
+        "salary": "100k-120k",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png?fbclid=IwAR0hSXQAyXiov3gYoFtLRjaA8DHfuOAsTzVhkTXyXBqWktTv5chykUskYqs",
+        "description": "Software Engineer: As a software engineer at Netflix, you will work on developing and improving the streaming service's software platform. ",
+        "responsibility": "Perform job-specific tasks: This involves completing the duties associated with the job, which could include anything from developing software to creating content to analyzing data.",
+        "education": "Diploma In Engineering",
+        "experiences": "2-3 years in this field",
+        "contact": {
+            "phone": "+8801307325024",
+            "email": "hanifulislam160@gmail.com",
+            "address": "Mirpur 10, Dhaka"
+        },
+        "jobType": {
+            "A": "Onsite",
+            "B": "Full Time"
+        }
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "jobTitle": "Sales Advisor Engineer",
+        "name": "Tesla",
+        "salary": "60k-80k",
+        "img": "https://pngimg.com/uploads/tesla_logo/tesla_logo_PNG21.png?fbclid=IwAR1IWzL8KVTwF_w-jLTxajfuWtFFL9E4nCFFLFt_B9BrJv4qxtt6ceB0-Cw",
+        "description": "Sales Advisor: As a sales advisor at Tesla, you will work with customers to educate them about the benefits of Tesla's products and guide them through the sales process. ",
+        "responsibility": "Meet deadlines and goals: Many roles at Tesla involve working on projects with specific deadlines and goals. As a result, you will need to be able to manage your time effectively, prioritize tasks, and work efficiently to meet project requirements.",
+        "education": "Bachelor of Science",
+        "experiences": "2 years in this field",
+        "contact": {
+            "phone": "+8801307325024",
+            "email": "hanifulislam160@gmail.com",
+            "address": "Mirpur 10, Dhaka"
+        },
+        "jobType": {
+            "A": "Remote",
+            "B": "Full Time"
+        }
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "jobTitle": "Software Engineer",
+        "name": "Microsoft Corporation",
+        "salary": "80k-120k",
+        "img": "https://1000logos.net/wp-content/uploads/2017/04/Microsoft-Logo.png?fbclid=IwAR2tqvyTRbo6tVmB6JQfDvokWA00l3r0_qalWtxgVF1DNlt70i6YEGL3JFw",
+        "description": "As a software engineer at Microsoft, you will design, develop, and test software applications and systems for a wide range of products and services. You will work with cross-functional teams to identify and solve technical challenges and develop new features and functionality.",
+        "responsibility": "Develop innovative solutions: As a Microsoft employee, you will be expected to develop innovative solutions to help solve complex problems. This may involve designing and developing software applications",
+        "education": "Diploma In Engineering",
+        "experiences": "2 years in this field",
+        "contact": {
+            "phone": "+8801307325024",
+            "email": "hanifulislam160@gmail.com",
+            "address": "Dhaka, Bangladesh"
+        },
+        "jobType": {
+            "A": "Onsite",
+            "B": "Full Time"
+        }
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "jobTitle": "Marketing Manager",
+        "name": "Facebook",
+        "salary": "90k-120k",
+        "img": "https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo.png?fbclid=IwAR1mdowjVLgWg1-drTwXXLMFHQATErtv100Tzv9UBmJSTzL4Rw_uBGv3VIQ",
+        "description": " As a marketing manager at Facebook, you will develop and execute marketing campaigns and strategies to promote Facebook's products and services.",
+        "responsibility": "Analyze data and identify trends: Data analysis is crucial to many roles at Facebook. You will need to be able to analyze data, identify trends, and use data to inform decision-making and improve product performance.",
+        "education": "Bachelor of Science",
+        "experiences": "3 years in this field",
+        "contact": {
+            "phone": "+888956875235",
+            "email": "stevensmit008@gmail.com",
+            "address": "New York, USA"
+        },
+        "jobType": {
+            "A": "Remote",
+            "B": "Full Time"
+        }
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "jobTitle": "Data Analysis Engineer",
+        "name": "NASA",
+        "salary": "120k-150k",
+        "img": "https://askunion.com/uploads/0ac52fbccd41eb9054c63f255a276c3f-1640955425.png?fbclid=IwAR1Uwhh8CdKHOOsn4lo63G4W4vBVPTJ9RTkr_IT7G0Wt2hsSX1JqfK9vsF4",
+        "description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "education": "Bachelor degree to complete any reputational university.",
+        "experiences": "5 years in this field",
+        "contact": {
+            "phone": "+8801821130038",
+            "email": "keron160@gmail.com",
+            "address": "Rangpur, Bangladesh"
+        },
+        "jobType": {
+            "A": "Onsite",
+            "B": "FullTime"
+        }
+    }
+]
