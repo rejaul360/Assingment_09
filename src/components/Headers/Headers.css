@@ -9,3 +9,12 @@ a {
     line-height: 22px;
     color: #757575;
 }
+
+@media only screen and (max-width: 576px) {
+    .bg_color{
+        margin-top: -80px;
+        padding: 10px;
+        margin-bottom: 10px;
+        
+    }
+  }
