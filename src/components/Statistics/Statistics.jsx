@@ -18,7 +18,7 @@ const Statistics = () => {
     const data = [
         {
             name: 'Ass-1',
-            number: 60,
+            number: 57,
             id: 101,
             amt: 1400,
             cnt: 490,
@@ -32,7 +32,7 @@ const Statistics = () => {
         },
         {
             name: 'Ass-3',
-            number:59,
+            number:55,
             id: 301,
             amt: 989,
             cnt: 350,
@@ -46,21 +46,21 @@ const Statistics = () => {
         },
         {
             name: 'Ass-5',
-            number: 58,
+            number: 60,
             id: 501,
             amt: 1100,
             cnt: 460,
         },
         {
             name: 'Ass-6',
-            number: 60,
+            number: 59,
             id: 601,
             amt: 1700,
             cnt: 380,
         },
     ];
     return (
-        <div>
+        <div className='w-10/12 mx-auto my-20 '>
             <ComposedChart
                 width={500}
                 height={400}
@@ -70,6 +70,7 @@ const Statistics = () => {
                     right: 20,
                     bottom: 20,
                     left: 20,
+                    
                 }}
             >
                 <CartesianGrid stroke="#f5f5f5" />
